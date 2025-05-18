@@ -5,7 +5,6 @@ import parent.BaseTest;
 import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertTrue;
 
-
 public class FirstTest extends BaseTest {
     @Test
     public void zipCode4Check() {
